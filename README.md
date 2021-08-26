@@ -1,1 +1,1 @@
-# Game-of-Life-Exploration
+# Conway's Game of Life Exploration Workbench
