@@ -19,9 +19,9 @@ jobs:
             - name: Checkout branch
               uses: actions/checkout@v2
 
-            - name: Clean install dependencies
-              working-directory: ./
-              run: npm ci
+            # - name: Clean install dependencies
+            #   working-directory: ./
+            #   run: npm ci
 
             - name: Run deploy script
               working-directory: ./
