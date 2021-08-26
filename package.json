@@ -1,0 +1,20 @@
+{
+  "name": "game-of-life-exploration",
+  "version": "1.0.0",
+  "description": "An workbench for explorations with Game of Life and cellular automata",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gh-pages-deploy": "node scripts/gh-pages-deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelescuVictor/Game-of-Life-Exploration.git"
+  },
+  "author": "Pavelescu Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelescuVictor/Game-of-Life-Exploration/issues"
+  },
+  "homepage": "https://github.com/PavelescuVictor/Game-of-Life-Exploration#readme"
+}
